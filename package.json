@@ -1,0 +1,13 @@
+{
+  "name": "micdrop",
+  "version": "0.0.0",
+  "description": "A sound server for recording with a USB mic and streaming it.",
+  "main": "lib/micdrop.js",
+  "author": "Anthony Grimes",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.5.0",
+    "nomnom": "^1.8.1",
+    "socket.io": "^1.3.5"
+  }
+}
